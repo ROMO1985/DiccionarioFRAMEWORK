@@ -1,0 +1,6 @@
+{
+  "name": "Diccionario de Framework",
+  "description": "Glosario interactivo y comparativo de traducción de los Estándares TOGAF 9.2 e ISO 9000:2015 (Inglés - Español Latinoamericano) con filtros avanzados, búsqueda inteligente de sinónimos y relaciones metodológicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
